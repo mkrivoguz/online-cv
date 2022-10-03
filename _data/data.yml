@@ -4,12 +4,12 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Andrey Stepanov
     tagline: QA engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: logo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: andrey.stepanov.tr@gmail.com
@@ -17,7 +17,7 @@ sidebar:
     timezone: Eastern European Summer Time GMT +3
     citizenship:
     website:  #do not add http://
-    linkedin: alandoe
+    linkedin: andrey-stepanov-a5896879
     xing: alandoe
     github: sharu725
     telegram: AndreyVorobeii # add your nickname without '@' sign
@@ -33,21 +33,21 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Native
+          level: Intermediate (B1)
 
-        - idiom: French
-          level: Professional
+        - idiom: Ukrainian
+          level: native
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Russian
+          level: native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Books
           link:
 
-        - item: Snowboarding
+        - item: Computer games
           link:
 
         - item: Cooking
@@ -66,27 +66,21 @@ education:
     title: Education
     info:
       - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+        university: Kharkiv National University of Radio Electronics
+        time: 2007 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          As part of the specialty "Telecommunications and Radio Engineering", 
+          I studied the principles of building and functioning of modern and 
+          new telecom and computer networks (wired and wireless, 
+          including Wi-Fi), mobile networks (2G, 3G, 4G), digital television 
+          networks, fixed and mobile Internet, satellite communications, 
+          transmission and switching systems. We studied network 
+          programming, design and administration of networks, business organization
+          in telecommunications, modern information technologies in information 
+          and communication systems, information security and 
+          communication systems
+            
+      
 experiences:
     title: Experiences
     info:
