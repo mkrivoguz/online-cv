@@ -56,12 +56,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+           QA engineer with over 9 years of professional experience in all
+           stages of Software QA, including manual and some automation.
+           Good knowledge of SDLC, test design, firmware testing, testing
+           approaches and techniques - functional, non-functional, system, regression. 
 education:
     title: Education
     info:
@@ -89,14 +87,14 @@ experiences:
         company: Waverley Software Ukraine
         details: |
           As a part of QA team I performed tests of firmware of enterprise,
-          small business and home storage systems (Functional and non-functional tests).
+          small business and home storage systems (Functional, non-functional tests, firmware tests).
           Testing Windows and Mac OS applications, WEB-APIs, Android and IOS aps,
           Web testing. Created Traceability Matrixes, tests, sets of tests,
           bug reports and other related documents. Responsible for reporting
           and sceduling. Worked closely with Development team,  QA and members
           of management. Responsible for training new engineers and trainees.
           Experience in test automation of web based applications using Selenium and Java.
-            - 9+ years as qa engineer.
+            
             
       - role: Senior Support engineer
         time: 2012 - 2013
