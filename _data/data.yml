@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
@@ -112,46 +112,48 @@ projects:
     assignments:
       - title: LaCie RAID Manager
         link: https://www.lacie.com/gb/en/support/software/lacie-raid-manager/
-        tagline: 
+        tagline: Creation of test documentation. Manual testing Windows and Mac applications. Test automation with SikuliX. Development and support.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Seagate FireCuda Gaming Dock
+        link: https://www.seagate.com/consumer/play/firecuda-gaming-dock/
+        tagline: Creation of test documentation. Manual firmware tests.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Seagate Toolkit
+        link: https://www.seagate.com/manuals/software/toolkit/introduction/
+        tagline: Creation of test documentation. Manual testing of Windows and Mac applications.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: DJI copilot
+        link: https://www.lacie.com/es/es/support/mobile-storage/dji-copilot/
+        tagline: Creation of test documentation. Manual testing of Android and IOS apps. Manual firmware tests.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: RAID storage devices family
+        link: https://lacie.com/support/products/
+        tagline: Creation of test documentation. Manual firmware tests.
 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Test process tools
+        tagline: Jira + Xray, TestLink, Testrail, Figma.
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Software and Tools
+        tagline: Postman, Fiddler, Charles, Wireshark, Chrome DevTools, LoadNinja and different performance tools.
         level: 98%
 
-      - name: Angular
+      - name: Test design and test development
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: SD Methodologies: Agile, Scrum, Waterfall
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Operating Systems: Windows, Mac, Linux
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Java
+        level: 20%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
