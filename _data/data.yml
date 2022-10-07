@@ -140,17 +140,17 @@ skills:
         tagline: Jira + Xray, TestLink, Testrail, Figma.
         level: 98%
 
-      - name: Software and Tools
+      - name: Postman, Fiddler, Charles, Wireshark, Chrome DevTools, LoadNinja and different performance tools
         tagline: Postman, Fiddler, Charles, Wireshark, Chrome DevTools, LoadNinja and different performance tools.
         level: 98%
 
       - name: Test design and test development
         level: 98%
 
-      - name: SD Methodologies Agile, Scrum, Waterfall
+      - name: Agile, Scrum, Waterfall
         level: 95%
 
-      - name: Operating Systems Windows, Mac, Linux
+      - name: OS Windows, Mac, Linux
         level: 85%
 
       - name: Java
