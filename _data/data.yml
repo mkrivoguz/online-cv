@@ -4,189 +4,155 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Andrey Stepanov
+    tagline: QA engineer
+    avatar: logo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: andrey.stepanov.tr@gmail.com
+    phone: +380931950562
+    timezone: Eastern European Summer Time GMT +3
+    citizenship:
+    website:  #do not add http://
+    linkedin: andrey-stepanov-a5896879
+    xing: 
+    github:
+    telegram: AndreyVorobeii # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
-      - idiom: English
-        level: Native
+      title: Languages
+      info:
+        - idiom: English
+          level: Intermediate (B1)
 
-      - idiom: French
-        level: Professional
+        - idiom: Ukrainian
+          level: native
 
-      - idiom: Spanish
-        level: Professional
+        - idiom: Russian
+          level: native
 
     interests:
-      - item: Climbing
-        link:
+      title: Interests
+      info:
+        - item: Books
+          link:
 
-      - item: Snowboarding
-        link:
+        - item: Computer games
+          link:
 
-      - item: Cooking
-        link:
+        - item: Cooking
+          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+           QA engineer with over 9 years of professional experience in all
+           stages of Software QA, including manual and some automation.
+           Good knowledge of SDLC, test design, firmware testing, testing
+           approaches and techniques - functional, non-functional, system, 
+           regression. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    title: Education
+    info:
+      - degree: Master's degree in telecommunications
+        university: Kharkiv National University of Radio Electronics
+        time: 2007 - 2012
+        details: |
+          As part of the specialty "Telecommunications and Radio Engineering", 
+          I studied the principles of building and functioning of modern and 
+          new telecom and computer networks (wired and wireless, 
+          including Wi-Fi), mobile networks (2G, 3G, 4G), digital television 
+          networks, fixed and mobile Internet, satellite communications, 
+          transmission and switching systems. We studied network 
+          programming, design and administration of networks, business organization
+          in telecommunications, modern information technologies in information 
+          and communication systems, information security and 
+          communication systems
+            
+      
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    title: Experiences
+    info:
+      - role: QA engineer
+        time: 2013 - Present
+        company: Waverley Software Ukraine
+        details: |
+          As a part of QA team I performed tests of firmware of enterprise,
+          small business and home storage systems (Functional, non-functional tests, firmware tests).
+          Testing Windows and Mac OS applications, WEB-APIs, Android and IOS aps,
+          Web testing. Created Traceability Matrixes, tests, sets of tests,
+          bug reports and other related documents. Responsible for reporting
+          and sceduling. Worked closely with Development team,  QA and members
+          of management. Responsible for training new engineers and trainees.
+          Experience in test automation of web based applications using Selenium and Java.
+            
+            
+      - role: Senior Support engineer
+        time: 2012 - 2013
+        company: Velton telecom
+        details: |
+          Technical support for telephony and Internet users. Setting up 
+          client network equipment, troubleshooting.
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: > 
+      All projects are mainly related to data storage systems and its firmware, and software products that interact with them.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: LaCie RAID Manager
+        link: https://www.lacie.com/gb/en/support/software/lacie-raid-manager/
+        tagline: Creation of test documentation. Manual testing Windows and Mac applications. Test automation with SikuliX. Development and support.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Seagate FireCuda Gaming Dock
+        link: https://www.seagate.com/consumer/play/firecuda-gaming-dock/
+        tagline: Creation of test documentation. Manual firmware tests.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Seagate Toolkit
+        link: https://www.seagate.com/manuals/software/toolkit/introduction/
+        tagline: Creation of test documentation. Manual testing of Windows and Mac applications.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: DJI copilot
+        link: https://www.lacie.com/es/es/support/mobile-storage/dji-copilot/
+        tagline: Creation of test documentation. Manual testing of Android and IOS apps. Manual firmware tests.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: RAID storage devices family
+        link: https://lacie.com/support/products/
+        tagline: Creation of test documentation. Manual firmware tests.
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Test process tools
+        tagline: Jira + Xray, TestLink, Testrail, Figma.
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Software and Tools
+        tagline: Postman, Fiddler, Charles, Wireshark, Chrome DevTools, LoadNinja and different performance tools.
         level: 98%
 
-      - name: Angular
+      - name: Test design and test development
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: SD Methodologies: Agile, Scrum, Waterfall
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Operating Systems: Windows, Mac, Linux
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Java
+        level: 20%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
