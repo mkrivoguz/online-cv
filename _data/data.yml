@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Andrey Stepanov
-    tagline: QA engineer
+    tagline: Senior QA Engineer
     avatar: logo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -61,6 +61,8 @@ career-profile:
            Good knowledge of SDLC, test design, firmware testing, testing
            approaches and techniques - functional, non-functional, system, 
            regression. 
+            9+ years experience of Software QA 
+            2+ years experience with mentoring/leading
 education:
     title: Education
     info:
