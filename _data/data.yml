@@ -71,22 +71,18 @@ education:
         time: 2006 - 2011
         details: |
           As part of the specialty "Computer Engineering", 
-          I studied the principles of building and functioning of modern and 
-          new telecom and computer networks (wired and wireless, 
-          including Wi-Fi), mobile networks (2G, 3G, 4G), digital television 
-          networks, fixed and mobile Internet, satellite communications, 
-          transmission and switching systems. We studied network 
-          programming, design and administration of networks, business organization
-          in telecommunications, modern information technologies in information 
-          and communication systems, information security and 
-          communication systems
+          I studied the principles of construction, technical equipment, and 
+          technology for the design of computer systems and networks, 
+          methods for creating and administering software for computer 
+          systems, as well as network operating systems (Microsoft Windows 
+          Server, GNU / LINUX, and other UNIX systems).
             
       
 experiences:
     title: Experiences
     info:
       - role: QA engineer
-        time: 2013 - Present
+        time: 2013 - 2023
         company: Waverley Software Ukraine
         details: |
           As a part of QA team I performed tests of firmware of enterprise,
@@ -94,24 +90,17 @@ experiences:
           Testing Windows and Mac OS applications, WEB-APIs, Android and IOS aps,
           Web testing. Created Traceability Matrixes, tests, sets of tests,
           bug reports and other related documents. Responsible for reporting
-          and sceduling. Worked closely with Development team,  QA and members
+          and sceduling. Worked closely with client, Development team,  QA and members
           of management. Responsible for training new engineers and trainees.
-          Experience in test automation of web based applications using Selenium and Java.
-            
-            
-      - role: Senior Support engineer
-        time: 2012 - 2013
-        company: Velton telecom
-        details: |
-          Technical support for telephony and Internet users. Setting up 
-          client network equipment, troubleshooting.
+          
+
 
 projects:
 
     title: Projects
 
     intro: > 
-      All projects are mainly related to data storage systems and its firmware, and software products that interact with them.
+      All projects are mainly related to data storage systems and its firmware, and software products that interact with them (for more please visit my Linkedin profile).
     assignments:
       - title: LaCie RAID Manager
         link: https://www.lacie.com/gb/en/support/software/lacie-raid-manager/
@@ -133,18 +122,22 @@ projects:
         link: https://lacie.com/support/products/
         tagline: Creation of test documentation. Manual firmware tests.
 
+      - title: Lyve Mobile Array
+        link: https://www.seagate.com/gb/en/products/data-transport/lyve-mobile-array/
+        tagline: Creation of test documentation. Manual firmware tests. Desktop apps tests (Windows and Mac).
+
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Test process tools
-        tagline: Jira + Xray, TestLink, Testrail, Figma.
+        tagline: Jira + Xray, TestLink, Testrail, Figma, Manits, Redmine, Bugzilla.
         level: 98%
 
-      - name: Postman, Fiddler, Charles, Wireshark, Chrome DevTools, LoadNinja and different performance tools
-        tagline: Postman, Fiddler, Charles, Wireshark, Chrome DevTools, LoadNinja and different performance tools.
-        level: 98%
+      - name: Postman, Fiddler, Chrome DevTools, FireBug and different performance tools
+        tagline: Postman, Fiddler, Chrome DevTools, FireBug and different performance tools.
+        level: 35%
 
       - name: Test design and test development
         level: 98%
@@ -154,9 +147,6 @@ skills:
 
       - name: OS Windows, Mac, Linux
         level: 85%
-
-      - name: Java
-        level: 20%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
