@@ -7,20 +7,20 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Andrey Stepanov
-    tagline: Senior QA Engineer
+    name: Maxim Krivoguz
+    tagline: QA Engineer
     avatar: logo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: andrey.stepanov.tr@gmail.com
-    phone: +380931950562
+    email: mkrivoguz777@gmail.com
+    phone: +380633722618
     timezone: Eastern European Summer Time GMT +3
     citizenship:
     website:  #do not add http://
-    linkedin: andrey-stepanov-a5896879
+    linkedin: maxim-krivoguz-88b89887
     xing: 
     github:
-    telegram: AndreyVorobeii # add your nickname without '@' sign
+    telegram: Maximkrv # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter:
@@ -33,7 +33,7 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Intermediate (B1)
+          level: Intermediate (B1-B2)
 
         - idiom: Ukrainian
           level: native
@@ -57,20 +57,20 @@ career-profile:
     title: Career Profile
     summary: |
            QA engineer with over 9 years of professional experience in all
-           stages of Software QA, including manual and some automation.
+           stages of Software QA manual testing.
            Good knowledge of SDLC, test design, firmware testing, testing
            approaches and techniques - functional, non-functional, system, 
            regression. 
            - 9+ years experience of Software QA 
-           - 2+ years experience with mentoring/leading
+           - 4+ years experience with mentoring/leading
 education:
     title: Education
     info:
-      - degree: Master's degree in telecommunications
+      - degree: Master's degree in computer engineering
         university: Kharkiv National University of Radio Electronics
-        time: 2007 - 2012
+        time: 2006 - 2011
         details: |
-          As part of the specialty "Telecommunications and Radio Engineering", 
+          As part of the specialty "Computer Engineering", 
           I studied the principles of building and functioning of modern and 
           new telecom and computer networks (wired and wireless, 
           including Wi-Fi), mobile networks (2G, 3G, 4G), digital television 
