@@ -142,6 +142,12 @@ skills:
       - name: Test design and test development
         level: 98%
 
+      - name: Organization and management of the team.
+        level: 75%
+        
+      - name: Communication and coordination skill.
+        level: 85%       
+        
       - name: Agile, Scrum, Waterfall
         level: 95%
 
